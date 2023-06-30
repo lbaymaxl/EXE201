@@ -598,6 +598,7 @@
     <Content Include="Views\UngTuyen\Index.cshtml" />
     <Content Include="Views\Home\DoiMatKhau.cshtml" />
     <Content Include="Views\Recruitment\PhuHop.cshtml" />
+    <Content Include="Scripts\netlify.toml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
